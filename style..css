@@ -1,0 +1,12 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+.debug2 {
+  border: 1px solid green;
+}
+.debug3 {
+  border: 1px solid blue;
+}
+.debug4 {
+  border: 1px solid yellow;
+}
